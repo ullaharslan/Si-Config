@@ -1,6 +1,6 @@
 Title: Database creation using Python and Machine‑Learning Interatomic Potential (MACE) Training Using Publicly Available VASP Single‑Point Data
 
-This repository provides a structured, reproducible workflow for creating structures  doing single-point training a MACE machine‑learning interatomic potential (MLIP) for crystalline silicon. The project integrates:
+This repository provides a structured, reproducible workflow for creating structures  doing single-point training of a MACE machine‑learning interatomic potential (MLIP) for crystalline silicon. The project integrates:
 
 - Publicly available Si structures and VASP single‑point outputs  
 - A clean Python‑based analysis pipeline  
