@@ -37,6 +37,6 @@ External datasets remain under their respective licenses.
 ## Contact
 
 **Irslan Ullah Ashraf** — Computational Physicist
-🔗 [github.com/ullaharslan](https://github.com/ullaharslan) · 📧 ullaharslan@gmail.com
+📧 ullaharslan@gmail.com
 **Hafsa Raza** — PhD Student
-🔗 hafsaraza2002@gmail.com
+📧 hafsaraza2002@gmail.com
