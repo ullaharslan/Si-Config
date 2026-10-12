@@ -17,7 +17,7 @@ All credit for dataset generation, VASP calculations, and workflow design belong
 
 Using the attributed dataset, we:
 
-1. **Trained a MACE MLIP** for crystalline Si on local CPU/GPU
+1. **Trained a MACE MLIP** for crystalline Si on local CPU/GPU [`mace_Si.model`]
 2. **Converted the model** to LAMMPS format → [`mace_Si.model-lammps.pt`](https://github.com/ullaharslan/Si-Config/blob/main/Results/mace_Si.model-lammps.pt)
 3. **Tested the potential** by computing the equilibrium lattice parameter of Si
 
