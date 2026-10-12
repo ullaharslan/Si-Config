@@ -22,7 +22,7 @@ Using the dataset of Si, we:
 
 | Property | DFT reference | MACE (this work) |
 |---|---|---|
-| Lattice parameter *a₀* (Å) | 5.43 | ~5.35 |
+| Lattice parameter *a₀* (Å) | 5.43 | ~5.47 |
 
 ---
 
