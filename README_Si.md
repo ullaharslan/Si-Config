@@ -28,7 +28,7 @@ Using the dataset of Si, we:
 
 ## License
 
-MIT License — covers only original code and documentation in this repository.
+MIT License (covers only original code and documentation in this repository).
 External datasets remain under their respective licenses.
 
 ---
