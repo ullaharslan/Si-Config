@@ -1,6 +1,6 @@
 # Si MACE MLIP — Training & Lattice Parameter Test
 
-## Dataset Attribution
+## Dataset 
 
 This project uses publicly released Si structures and VASP single-point outputs from:
 
@@ -13,9 +13,9 @@ All credit for dataset generation, VASP calculations, and workflow design belong
 
 ---
 
-## What We Did
+## Workflow
 
-Using the attributed dataset, we:
+Using the dataset of Si, we:
 
 1. **Trained a MACE MLIP** for crystalline Si on local CPU/GPU (**mace_Si.model**)
 2. **Converted the model** to LAMMPS format → [`mace_Si.model-lammps.pt`](https://github.com/ullaharslan/Si-Config/blob/main/Results/mace_Si.model-lammps.pt)
