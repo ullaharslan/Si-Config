@@ -9,7 +9,7 @@ This project uses publicly released Si structures and VASP single-point outputs 
 
 All credit for dataset generation, VASP calculations, and workflow design belongs to the original author. The dataset includes 50 rattled + strained Si structures with parsed extxyz files (`train.xyz`, `val.xyz`, `test.xyz`).
 
-> 💡 If you have HPC access, we recommend generating rattled structures yourself using the original tutorial above.
+>  If you have HPC access, we recommend generating rattled structures yourself using the original tutorial above.
 
 ---
 
